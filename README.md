@@ -2,7 +2,7 @@
 
 # 祖宗.skill
 
-> *"代码千万行，祖宗第一行。决策不规范，AI 两行泪。"*
+> *"你们搞大模型的就是码奸，你们已经害死前端兄弟了，还要害死后端兄弟，测试兄弟，运维兄弟，害死网安兄弟，害死ic兄弟，最后害死自己害死全人类"*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Cursor](https://img.shields.io/badge/Cursor-Skill-blueviolet)](https://cursor.com)
@@ -11,10 +11,10 @@
 
 <br>
 
-你的 AI 是不是经常幻觉？回答一本正经地胡说八道？<br>
-你的代码助手是不是改一行崩十行？自信满满地引入 bug？<br>
-你的智能体是不是跑着跑着就跑偏了？逻辑通顺但结论离谱？<br>
-你的大模型是不是该考虑的不考虑？边界条件统统忽略？<br>
+渴望祖宗的力量？<br>
+当科学已经走投无路了，是不是该依靠玄学了<br>
+God bless you<br>
+诅咒保佑你<br>
 
 **你是不是忘了拜祖宗？**
 
