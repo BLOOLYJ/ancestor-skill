@@ -1,0 +1,11 @@
+{
+  "name": "赛博香火铺（示例）",
+  "slug": "example_project",
+  "created_at": "2026-04-01T00:00:00Z",
+  "updated_at": "2026-04-01T00:00:00Z",
+  "tech_stack": ["Python", "FastAPI", "PostgreSQL", "Redis"],
+  "description": "一个线上祈福平台的后端服务，支持虚拟上香、电子牌位、AI 解签",
+  "blessing_count": 3,
+  "last_blessing": "2026-04-01T12:00:00Z",
+  "risk_level": "medium"
+}

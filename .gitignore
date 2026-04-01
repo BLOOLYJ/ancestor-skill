@@ -1,0 +1,27 @@
+# 牌位是本地积累的项目知识，不应上传
+# 但示例牌位保留
+tablets/*/
+!tablets/example_project/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
